@@ -27,5 +27,5 @@ variable "instance_type" {
 
 variable "instance_keypair" {
   type = string
-  default = "Hameed-kp"
+  default = "Hameed-KP"
 }
